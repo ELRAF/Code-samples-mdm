@@ -1,2 +1,2 @@
 # Code-samples
-The code in this repository is intended for inquiring employers.
+The code in this repository is intended for inquiring employers only.
